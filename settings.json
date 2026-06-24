@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
+    "password": "12345678damian",
     "type": "offline"
   },
   "server": {
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 2,
+    "y": 67,
+    "z": 1
   },
   "utils": {
     "auto-auth": {
