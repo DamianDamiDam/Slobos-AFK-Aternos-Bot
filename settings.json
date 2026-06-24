@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UltimatePlaying.aternos.me",
+    "ip": "UltimatePlaying.aternos.me:32502",
     "port": 32502,
-    "version": "21.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
